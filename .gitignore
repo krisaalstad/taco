@@ -1,0 +1,15 @@
+# Environment
+.venv/
+
+# Generated figures
+*.jpg
+*.pdf
+
+# Python cache
+__pycache__/
+
+# MATLAB autosave
+*.asv
+
+# Positron's log file
+snowflake.log
