@@ -49,7 +49,7 @@ For both schemes we use the simplest implementation, with no rejuvenation or pro
 Clone the repository and move into it:
 
 ```bash
-git clone https://github.com/kristaal/taco.git
+git clone https://github.com/krisaalstad/taco.git
 cd taco
 ```
 
