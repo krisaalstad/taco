@@ -13,7 +13,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 </p>
 
-**taco** contains two toy-model examples of cryospheric data assimilation from the review manuscript *Synthesizing data assimilation for snow, glaciers, and permafrost*. Each example is available in both MATLAB and Python.
+**taco** contains two toy-model examples of cryospheric data assimilation from the review manuscript *Synthesizing data assimilation for snow, glaciers, and permafrost*. Each example is available in both MATLAB and Python scripts.
 
 ## Examples
 
