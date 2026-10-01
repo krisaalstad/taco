@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://doi.org/10.5281/zenodo.23046542"><img src="https://img.shields.io/badge/DOI-Code-blue.svg" alt="DOI - Code"></a>
   <a href="https://doi.org/10.5281/zenodo.22938686"><img src="https://img.shields.io/badge/DOI-Dataset-blue.svg" alt="DOI - Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 </p>
